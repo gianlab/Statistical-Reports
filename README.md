@@ -1,5 +1,6 @@
 # Statistical-Reports
 Statistical reports made as data scientist
+
 <table width="643" cellpadding="4" cellspacing="0">
 	<col width="29">
 	<col width="67">
@@ -81,7 +82,6 @@ Statistical reports made as data scientist
 			his total quantity sold</p>
 		</td>
 	</tr>
-	
 	<tr valign="top">
 		<td width="29" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
 			<p>5)</p>
@@ -96,5 +96,4 @@ Statistical reports made as data scientist
 			<p>Forecast product sales by month and season</p>
 		</td>
 	</tr>
-	
 </table>
