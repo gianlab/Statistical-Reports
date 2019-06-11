@@ -81,4 +81,20 @@ Statistical reports made as data scientist
 			his total quantity sold</p>
 		</td>
 	</tr>
+	
+	<tr valign="top">
+		<td width="29" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
+			<p>5)</p>
+		</td>
+		<td width="67" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
+			<p>6/11/2019</p>
+		</td>
+		<td width="139" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
+			<p>Forecast product sales.md</p>
+		</td>
+		<td width="374" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding-top: 0cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0.1cm">
+			<p>Forecast product sales by month and season</p>
+		</td>
+	</tr>
+	
 </table>
